@@ -1,2 +1,2 @@
 #!/bin/bash
-root
+ls -l 1-who_am_i 
