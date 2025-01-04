@@ -1,3 +1,2 @@
 #!/bin/bash
 chmod 753 5-execute
-ls -l 5-execute
