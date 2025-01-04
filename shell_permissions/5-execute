@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld 5-execute | awk '{ print $1; }'
+stat -c %A 5-execute
